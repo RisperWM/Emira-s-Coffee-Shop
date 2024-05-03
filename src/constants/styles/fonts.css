@@ -1,0 +1,53 @@
+@font-face {
+  font-family: "CopperplateGothic29AB";
+  src: local("CopperplateGothic29AB"),
+    url("../../fonts/Copperplate-Gothic-Std-29-AB.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "CopperplateGothic29BC";
+  src: local("CopperplateGothic29AB"),
+    url("../../fonts/Copperplate-Gothic-Std-29-BC.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "CopperplateGothic30AB";
+  src: local("CopperplateGothic30AB"),
+    url("../../fonts/Copperplate-Gothic-Std-30-AB.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "CopperplateGothic30BC";
+  src: local("CopperplateGothic30BC"),
+    url("../../fonts/Copperplate-Gothic-Std-30-BC.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "CopperplateGothic31AB";
+  src: local("CopperplateGothic31AB"),
+    url("../../fonts/Copperplate-Gothic-Std-31-AB.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "CopperplateGothic31BC";
+  src: local("CopperplateGothic31BC"),
+    url("../../fonts/Copperplate-Gothic-Std-31-BC.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "CopperplateGothic32AB";
+  src: local("CopperplateGothic32AB"),
+    url("../../fonts/Copperplate-Gothic-Std-32-AB.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "CopperplateGothic32BC";
+  src: local("CopperplateGothic32BC"),
+    url("../../fonts/Copperplate-Gothic-Std-32-BC.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "CopperplateGothic33BC";
+  src: local("CopperplateGothic33BC"),
+    url("../../fonts/Copperplate-Gothic-Std-33-BC.ttf") format("truetype");
+}
